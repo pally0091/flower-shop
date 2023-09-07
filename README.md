@@ -1,3 +1,3 @@
-## Botanical Bliss
+# Botanical Bliss
 
-# A static landin page
+## A static landing page
