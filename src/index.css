@@ -8,3 +8,11 @@ body {
   background-color: antiquewhite;
   font-family: "Times New Roman", Times, serif;
 }
+
+#title {
+  background: linear-gradient(to right, #374bff, #ff032d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 3px 3px 5px gray;
+}

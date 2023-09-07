@@ -4,8 +4,13 @@ import React from "react";
 const Banner = () => {
   return (
     <div>
-      <nav>
-        <h1>Botanical Bliss</h1>
+      <nav className="py-5 px-10 bg-emerald-200">
+        <h1
+          id="title"
+          className="text-5xl italic text-center md:text-left lg:text-right font-semibold"
+        >
+          Botanical Bliss
+        </h1>
       </nav>
     </div>
   );
