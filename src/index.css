@@ -16,3 +16,7 @@ body {
   color: transparent;
   text-shadow: 3px 3px 5px gray;
 }
+.flower-div:hover img {
+  scale: 1.2;
+  transition-duration: 0.5s;
+}
