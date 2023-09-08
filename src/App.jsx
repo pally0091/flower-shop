@@ -1,5 +1,6 @@
 import "./App.css";
 import Banner from "./Components/Banner";
+import Deal from "./Components/Deal";
 import FlowerCollection from "./Components/FlowerCollection";
 import Footer from "./Components/Footer";
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Banner></Banner>
       <FlowerCollection></FlowerCollection>
+      <Deal></Deal>
       <Footer></Footer>
     </>
   );
