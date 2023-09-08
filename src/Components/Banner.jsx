@@ -12,6 +12,9 @@ const Banner = () => {
         >
           Botanical Bliss
         </h1>
+        <p className="text-center md:text-left lg:text-right">
+          Your Floral Paradise
+        </p>
       </nav>
       <div>
         <img
