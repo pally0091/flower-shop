@@ -14,25 +14,25 @@ const Instagram = () => {
         readable content of a page when looking at its layout.
       </p>
       <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-8 my-5">
-        <div className="i-div shadow-md shadow-green-800 ">
+        <div className="shadow-md shadow-green-800 ">
           <img
             src={f1}
             alt=""
           />
         </div>
-        <div className="i-div shadow-md shadow-green-800 ">
+        <div className="shadow-md shadow-green-800 ">
           <img
             src={f2}
             alt=""
           />
         </div>
-        <div className="i-div shadow-md shadow-green-800 ">
+        <div className="shadow-md shadow-green-800 ">
           <img
             src={f3}
             alt=""
           />
         </div>
-        <div className="i-div shadow-md shadow-green-800 ">
+        <div className="shadow-md shadow-green-800 ">
           <img
             src={f4}
             alt=""
